@@ -1,0 +1,4 @@
+﻿  sub.cpp
+F:\机器人学院资料\Homework\Data Structures\project_1\tele_record改良\optimization Record list\head.h(35,15): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\机器人学院资料\Homework\Data Structures\project_1\tele_record改良\optimization Record list\sub.cpp(38,13): warning C4101:  “ex”: 未引用的局部变量
+  optimization Record list.vcxproj -> F:\机器人学院资料\Homework\Data Structures\project_1\tele_record改良\optimization Record list\Debug\optimization Record list.exe
