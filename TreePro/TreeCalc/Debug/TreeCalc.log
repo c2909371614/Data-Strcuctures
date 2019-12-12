@@ -1,0 +1,11 @@
+﻿  BuildNode.cpp
+F:\机器人学院资料\Homework\Data Structures\TreePro\TreeCalc\head.h(15,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  inToPost.cpp
+F:\机器人学院资料\Homework\Data Structures\TreePro\TreeCalc\head.h(15,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+F:\机器人学院资料\Homework\Data Structures\TreePro\TreeCalc\head.h(15,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  strToVal.cpp
+F:\机器人学院资料\Homework\Data Structures\TreePro\TreeCalc\head.h(15,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\机器人学院资料\Homework\Data Structures\TreePro\TreeCalc\strToVal.cpp(6,20): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  TreeCalc.vcxproj -> F:\机器人学院资料\Homework\Data Structures\TreePro\TreeCalc\Debug\TreeCalc.exe

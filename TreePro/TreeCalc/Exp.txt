@@ -1,0 +1,8 @@
+6.2*4=24.8
+1+1+2*4.2=10.4
+1*2+0+6*2.5=17
+
+the time is 6ms
+the total of exp:3
+the error of exp: 0
+the right of exp: 3
