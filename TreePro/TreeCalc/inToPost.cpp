@@ -6,7 +6,7 @@ int Tree::degree(char a) {//Ȩֵ
 		return 2;
 	return -1;
 }
-string Tree::inExp_to_postExp() {
+string Tree :: inExp_to_postExp() {
 //	cout << "xy"<<endl;
 	string ans;
 	stack<char> sta_ch;

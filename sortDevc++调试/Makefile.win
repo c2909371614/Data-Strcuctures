@@ -1,0 +1,55 @@
+# Project: sort
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe -D__DEBUG__
+CC       = gcc.exe -D__DEBUG__
+WINDRES  = windres.exe
+OBJ      = bubbleSort.o heapSort.o insertSort.o main.o mergeSort.o quickSort.o randChar.o selectSort.o shellSort.o sub.o
+LINKOBJ  = bubbleSort.o heapSort.o insertSort.o main.o mergeSort.o quickSort.o randChar.o selectSort.o shellSort.o sub.o
+LIBS     = -L"E:/Application_EXE/Dev-Cpp/MinGW64/lib" -L"E:/Application_EXE/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -g3
+INCS     = -I"E:/Application_EXE/Dev-Cpp/MinGW64/include" -I"E:/Application_EXE/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"E:/Application_EXE/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"E:/Application_EXE/Dev-Cpp/MinGW64/include" -I"E:/Application_EXE/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"E:/Application_EXE/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"E:/Application_EXE/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = sort.exe
+CXXFLAGS = $(CXXINCS) -g3
+CFLAGS   = $(INCS) -g3
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+bubbleSort.o: bubbleSort.cpp
+	$(CPP) -c bubbleSort.cpp -o bubbleSort.o $(CXXFLAGS)
+
+heapSort.o: heapSort.cpp
+	$(CPP) -c heapSort.cpp -o heapSort.o $(CXXFLAGS)
+
+insertSort.o: insertSort.cpp
+	$(CPP) -c insertSort.cpp -o insertSort.o $(CXXFLAGS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+mergeSort.o: mergeSort.cpp
+	$(CPP) -c mergeSort.cpp -o mergeSort.o $(CXXFLAGS)
+
+quickSort.o: quickSort.cpp
+	$(CPP) -c quickSort.cpp -o quickSort.o $(CXXFLAGS)
+
+randChar.o: randChar.cpp
+	$(CPP) -c randChar.cpp -o randChar.o $(CXXFLAGS)
+
+selectSort.o: selectSort.cpp
+	$(CPP) -c selectSort.cpp -o selectSort.o $(CXXFLAGS)
+
+shellSort.o: shellSort.cpp
+	$(CPP) -c shellSort.cpp -o shellSort.o $(CXXFLAGS)
+
+sub.o: sub.cpp
+	$(CPP) -c sub.cpp -o sub.o $(CXXFLAGS)

@@ -1,12 +1,16 @@
-﻿#include<cstdlib>
-#include<cstdio>
-#include<vector>
-#include<string>
-#include<fstream>
-#include<algorithm>
+
 #include <iostream>
+#include<map>
+using namespace std;
+const int N = 1e3+5;
+int c[N];
+int topo[N], t;
 int main()
 {
-    std::cout << "Hello World!\n";
+	map<string, string> a;
+	a["aa"]="sad";
+	a["aa"]="happy";
+	cout << a["aa"] << endl;
+	return 0;
 }
 

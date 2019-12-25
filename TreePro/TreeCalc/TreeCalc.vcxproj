@@ -23,6 +23,7 @@
     <ClCompile Include="inToPost.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="strToVal.cpp" />
+    <ClCompile Include="sub.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="head.h" />
