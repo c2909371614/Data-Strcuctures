@@ -1,5 +1,4 @@
 # Data-Strcuctures
-update some structures algorithm
 
 ```mermaid
 	graph LR
