@@ -10,7 +10,7 @@ int sortClass :: getRow() {
 void sortClass :: getdata() {
     //---刷新class的数据域---
     //fstream in("unsort.txt", ios::in);
-    fstream in("unsort.txt", ios::in);
+    fstream in("oldArray.txt", ios::in);
     string str;
     int i = 0;
     while (getline(in, str)) {

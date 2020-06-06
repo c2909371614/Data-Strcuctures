@@ -1,37 +1,4 @@
-﻿  bubbleSort.cpp
+﻿  main.cpp
 F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(15,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
 F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(16,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  head.h
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(15,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(16,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  heapSort.cpp
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(15,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(16,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  insertSort.cpp
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(15,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(16,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  randChar.cpp
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(15,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(16,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-F:\机器人学院资料\Homework\Data Structures\mySort\code\randChar.cpp(4,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  selectSort.cpp
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(15,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(16,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  mergeSort.cpp
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(15,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(16,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  quickSort.cpp
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(15,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(16,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  shellSort.cpp
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(15,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(16,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-F:\机器人学院资料\Homework\Data Structures\mySort\code\shellSort.cpp(5,6): warning C4101: “i”: 未引用的局部变量
-  sub.cpp
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(15,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(16,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  main.cpp
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(15,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-F:\机器人学院资料\Homework\Data Structures\mySort\code\head.h(16,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  正在生成代码...
   mySort.vcxproj -> F:\机器人学院资料\Homework\Data Structures\mySort\code\Debug\mySort.exe

@@ -25,7 +25,7 @@ int main() {
 	a.quickSort(0, a.getRow() );//4
 	int quick_time = clock();
 	cout << " time of quick: " << quick_time - begin_time << "ms" << endl;
-	
+	a.outdata("new.txt");
 	/*a.getdata();
 	begin_time = clock();
 	a.shellSort();//5
